@@ -1,0 +1,5 @@
+com\dhanveerit\account\setup\StandaloneMvcTestViewResolver.class
+com\dhanveerit\account\modelTest\UserTest.class
+com\dhanveerit\account\controllerTest\UserControllerTest.class
+com\dhanveerit\account\controllerTest\SampleTest.class
+com\dhanveerit\account\modelTest\RoleTest.class
